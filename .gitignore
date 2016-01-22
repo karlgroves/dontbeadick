@@ -1,0 +1,7 @@
+.project
+.settings
+*.patch
+.DS_Store
+.idea
+.settings
+atlassian-ide-plugin.xml
