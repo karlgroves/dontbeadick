@@ -22,3 +22,5 @@ Absolutely not. But I guess I am making light of the bikeshedding that takes pla
 ### How do I enforce this Code of Conduct?
 Have some guts and do it. Verify the complaint. Determine if you think the accused person has been a dick. Then, confront the person, tell them they're a dick and that they need to go away.
 
+### I don't believe in Codes of Conduct. They're for wimps and whiners
+Then you're a dick.
