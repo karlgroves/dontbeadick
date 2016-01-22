@@ -6,7 +6,7 @@ In the interest of simplifying the typical process of determining what a proper 
 ## Full Text of the Code of Conduct
 The full text of the Don't be a Dick Code of Conduct is as follows:
 
-> If at anytime you choose to do something that a rational person of average intelligence could reasonable consider your actions as "Being a dick", you are in violation of this code of conduct.
+> If at anytime you choose to do something that a rational person of average intelligence could reasonably consider your actions as "Being a dick", you are in violation of this code of conduct.
 
 ## Potential Questions and Concerns
 
