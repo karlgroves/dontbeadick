@@ -1,6 +1,6 @@
 # Don't be a Dick Code of Conduct
 
-##Introduction
+## Introduction
 In the interest of simplifying the typical process of determining what a proper Code of Conduct should consist of, I've come up with the simplest, clearest, and most concise Code of Conduct ever. It is licensed under the "Do What The Fuck You Want To" Public License.
 
 ## Full Text of the Code of Conduct
