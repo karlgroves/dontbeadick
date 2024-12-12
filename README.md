@@ -24,3 +24,9 @@ Have some guts and do it. Verify the complaint. Determine if you think the accus
 
 ### I don't believe in Codes of Conduct. They're for wimps and whiners
 Then you're a dick.
+
+## How to Use This CoC in Your Project
+If you'd like to use the "Don't Be a Dick" Code of Conduct in your own project, you can do so by copying the contents of [the Code of Conduct](https://github.com/karlgroves/dontbeadick?tab=readme-ov-file#full-text-of-the-code-of-conduct) into a `CODE_OF_CONDUCT.md` file in the root of your repository. You may also link back to this repository as the source.
+
+## Contributor Guidelines
+All contributors are expected to adhere to the [Don't Be a Dick Code of Conduct](https://github.com/karlgroves/dontbeadick?tab=readme-ov-file#full-text-of-the-code-of-conduct). Please read it before participating in discussions, opening issues, or submitting pull requests.
